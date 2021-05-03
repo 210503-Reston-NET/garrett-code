@@ -6,7 +6,7 @@ namespace build_env_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! This program should run x-platform!");
         }
     }
 }
